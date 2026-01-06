@@ -1,7 +1,7 @@
 /**
  ******************************************************************************
  * @file    vr_sample_train_esp32.ino
- * @author  JiapengLi (Modified for ESP32)
+ * @author  altherZero (Modified for ESP32)
  * @brief   This file provides a demonstration on 
  * how to train VoiceRecognitionModule to record your voice
  ******************************************************************************
